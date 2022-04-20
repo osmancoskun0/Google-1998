@@ -1,0 +1,75 @@
+
+
+
+
+
+.container  {
+    display: block;
+    width: 1280px;
+    margin: 20px auto 0;
+    text-align: -webkit-center;
+    
+
+
+}
+
+p   {
+
+    margin-top: 100px;
+}
+
+.logo { 
+
+    display:block;
+    align-content: center;    
+
+}
+
+.search {
+
+
+    background-color: rgb(238, 238, 238);
+    margin-bottom: 5px;
+
+}
+
+.box-1  {
+    vertical-align:bottom;
+    background-color: rgb(126, 229, 218);
+    height: 80px;
+    width: 470px;
+    margin-right: 2px;
+    float: left;
+
+}
+
+.box-2  {
+    background-color: rgb(112, 204, 194);
+    height: 80px;
+    width: 280px;
+    margin-right:   2px;
+    float: left;
+    
+}
+
+.box-3  {
+    background-color: rgb(98, 179, 170);
+    height: 80px;
+    width: 526px;
+    float: left;
+    
+}
+
+
+section {
+    font-size: small;
+    display: block;
+}
+
+.footer {
+
+    margin-top: 2%;
+    margin-bottom: 4%;
+    font-size: small;
+}
+
